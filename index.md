@@ -1,10 +1,11 @@
 # ReflexPro 隐私政策
 
 **最后更新日期：2026年3月20日**
+**若多人测试请您使用同一台设备以减少设备屏幕刷新率等差异导致的成绩变化**
 
 ## 简介
 
-ReflexPro（以下简称"本应用"）尊重并保护用户的隐私。本隐私政策说明了我们如何处理您的信息。
+职业反应测试（以下简称"本应用"）尊重并保护用户的隐私。本隐私政策说明了我们如何处理您的信息。
 
 ## 信息收集
 
@@ -70,7 +71,7 @@ ReflexPro（以下简称"本应用"）尊重并保护用户的隐私。本隐私
 ## 联系我们
 
 如果您对本隐私政策有任何疑问，请通过以下方式联系我们：
-- 邮箱：support@reflexpro.app
+- 邮箱：shawlion@qq.com
 
 ## 同意
 
@@ -150,7 +151,7 @@ If we make significant changes to this Privacy Policy, we will notify you throug
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
-- Email: support@reflexpro.app
+- Email: shawlion@qq.com
 
 ## Consent
 
